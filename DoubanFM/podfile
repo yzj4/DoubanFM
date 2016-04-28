@@ -1,0 +1,9 @@
+
+target'DoubanFM' do
+platform :ios, '7.0'
+pod ‘AFNetworking'
+pod ‘SDWebImage’
+pod ‘MJRefresh’
+pod ‘Masonry’
+pod ‘MJExtension’
+end
